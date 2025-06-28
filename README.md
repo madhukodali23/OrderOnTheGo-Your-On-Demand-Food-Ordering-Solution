@@ -2,7 +2,7 @@
 
 A modern food delivery website built with a React frontend and Node.js/Express backend with MongoDB integration.
 
-## 🚀 Features
+##  Features
 
 - 🍽️ **Beautiful Food Website** — Modern, responsive design with Bootstrap
 - ⚛️ **React Frontend** — Component-based architecture with hooks
